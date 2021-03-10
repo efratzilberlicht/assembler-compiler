@@ -1,0 +1,14 @@
+﻿  assembler.c
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(6,17): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(6,17): warning C4024: 'read_files': different types for formal and actual parameter 1
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(18,15): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(25,26): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(41,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(42,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(44,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(47,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(12,7): warning C4101: 'line': unreferenced local variable
+C:\Users\User\Desktop\אוניברסיטה הפתוחה\מעבדה בתכנות מערכות\mm14\assembler.c(15,6): warning C4101: 'i': unreferenced local variable
+  first_pass.c
+  second_pass.c
+  Generating Code...
